@@ -9,8 +9,8 @@ from Bluetin_Echo import Echo
 GPIO.setmode(GPIO.BCM)
 
 
-#run the following line on ubuntu mate
-#cd /dev
+#run the following line on linux terminal
+#cd /location_with_this_code_file
 #sudu chmod og+rwx gpio*
 
 
